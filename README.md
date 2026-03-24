@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently doing BS Computer science from University of Central Punjab <br>👯 I’m looking to collaborate on Networking and Cyber Security related jobs<br>🤝 I’m looking for help with Networking and Cyber Security related roles <br>🌱 I’m currently learning Certified Ethical Hacking <br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently pursuing **BS Computer Science** at the **University of Central Punjab (UCP)**.
+* 👯 I’m looking to collaborate on **Networking** and **Cybersecurity** projects.
+* 🤝 I’m seeking mentorship and opportunities in **Network Security** and **Infosec** roles.
+* 🌱 I’m currently mastering the art of offensive security with **Certified Ethical Hacking (CEH)**.
+* 💬 Ask me about: **Network Protocols, Penetration Testing, or Linux**.
+* ⚡ Fun fact: While most people just use the internet, I spend my time figuring out how to secure it (and occasionally debugging why my own Wi-Fi is acting up! 🕵️‍♂️💻).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul_ahad893) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-ahad-675790307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thekitten786@gmail.com) 
